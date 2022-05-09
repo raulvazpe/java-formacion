@@ -17,7 +17,7 @@ public class ArbolNavidad {
 	public static String stars(int stars) {
 		String estrellitas = "";
 		for (int i = 0; i < stars; i++) {
-			estrellitas += "*";
+			estrellitas += "\033[0;42m*\033[0m";
 		}
 		return estrellitas;
 	}

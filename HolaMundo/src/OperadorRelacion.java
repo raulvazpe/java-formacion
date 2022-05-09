@@ -17,7 +17,7 @@ public class OperadorRelacion {
 		System.out.println("num 1 es distinto que num 3? "+(num2 != num3));
 		
 		// num 2 es distinto que num 2?
-		System.out.println("num 2 es distinto que num 2? "+(num2 != num2));
+		System.out.println("num 4 es distinto que num 2? "+(num4 != num2));
 		
 		//num4 es menor al valor de num3
 		System.out.println("num4 es menor al valor de num3"+(num4 < num3));
