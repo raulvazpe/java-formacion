@@ -24,11 +24,13 @@ public class Coche {
 		this.fuel = fuel;
 		this.maxSpeed = maxSpeed;
 	}
+	
+	//CONSTRUCTOR VACIO
 	public Coche() {
 
 	}
 	
-	//CONSTRUCTOR VACIO
+
 	
 	
 }
